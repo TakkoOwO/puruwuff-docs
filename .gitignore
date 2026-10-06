@@ -1,0 +1,15 @@
+# AI 代理指令文件(仅本机生效,不要提交)
+AGENTS.md
+AGENTS.local.md
+CLAUDE.local.md
+
+# 操作系统
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 编辑器 / IDE
+.vscode/
+.idea/
+*.swp
+*~
