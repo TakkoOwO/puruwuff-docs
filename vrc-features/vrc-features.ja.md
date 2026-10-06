@@ -35,4 +35,4 @@
 - GogoLoco
 - VRCFaceTracking（フェイストラッキング）
 
-依存関係とインストール手順は[インポートガイド](install.ja.md)をご覧ください。
+依存関係とインストール手順は[インポートガイド](../install/install.ja.md)をご覧ください。

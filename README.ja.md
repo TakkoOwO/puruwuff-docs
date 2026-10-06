@@ -17,7 +17,7 @@
 | VRChat 試着（デモ） | [VRChat で開く](https://vrchat.com/home/avatar/avtr_b0d2d0fa-bc3c-4957-bb4e-5a026e4db63a) |
 | VRM モデル展示（VRoid Hub） | [Puruwuff Full_Outfit](https://hub.vroid.com/en/characters/1221089435497151749/models/5018229049494589851) · [Puruwuff Chuby](https://hub.vroid.com/en/characters/1221089435497151749/models/5606967958032443628) |
 
-**[展示をすべて見る（9 枚）](gallery.ja.md)**
+**[展示をすべて見る（9 枚）](gallery/gallery.md)**
 
 ## 購入リンク
 
@@ -36,16 +36,16 @@
 - 衣装パーツは個別にオン・オフ制御でき、シャツはめくることができ、リード（綱）も引けます
 - 体型は調整可能で、足の指・しっぽ・耳にアニメーションが付いています
 - プリンを食べさせることができ、少しずつ太っていきます
-- 詳細：[VRCモデルの遊び方](vrc-features.ja.md)
+- 詳細：[VRCモデルの遊び方](vrc-features/vrc-features.ja.md)
 
 ## プロジェクトファイル使用ガイド
 
 > [!IMPORTANT]
 > VRChat プロジェクトは Modular Avatar と lilToon shader に依存しています。GogoLoco や VRCFT などのコンポーネントはご自身で追加できます。
 
-- 詳細：[インポートガイド](install.ja.md)
+- 詳細：[インポートガイド](install/install.ja.md)
 
-<!-- TODO: プロジェクトファイル使用ガイドのリンク先は要確認。ここでは install.ja.md をリンク — 別のガイドを指す場合は差し替え -->
+<!-- TODO: プロジェクトファイル使用ガイドのリンク先は要確認。ここでは install/install.ja.md をリンク — 別のガイドを指す場合は差し替え -->
 
 ## モデル情報
 
@@ -70,12 +70,12 @@
 - ✅ 外部委託による改変、収益化を伴う配信、同人創作の頒布、制作したアクセサリの販売が可能です。DM での許諾申請は不要です。
 - ❌ プロジェクトファイルの内容を外部へ漏らしたり転売したりしないでください。
 
-詳細：[ライセンス全文](license.ja.md)
+詳細：[ライセンス全文](license/license.ja.md)
 
 ## 更新履歴
 
 - 現在のバージョン：1.0.0（2026-10-06 更新）
-- 詳細：[更新履歴の全文](changelog.ja.md)
+- 詳細：[更新履歴の全文](changelog/changelog.ja.md)
 
 ## お問い合わせ
 

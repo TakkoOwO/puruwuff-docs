@@ -35,4 +35,4 @@
 - GogoLoco
 - VRCFaceTracking (face tracking)
 
-Dependencies and installation steps are in the [installation guide](install.md).
+Dependencies and installation steps are in the [installation guide](../install/install.md).

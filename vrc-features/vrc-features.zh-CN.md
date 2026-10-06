@@ -35,4 +35,4 @@
 - GogoLoco
 - VRCFaceTracking(面部追踪)
 
-依赖与安装步骤见[导入指南](install.zh-CN.md)。
+依赖与安装步骤见[导入指南](../install/install.zh-CN.md)。
