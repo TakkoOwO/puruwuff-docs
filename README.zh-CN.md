@@ -19,12 +19,12 @@
 
 | 平台 | 商品页 |
 | --- | --- |
-| gumroad | _待公布_ |
-| jinxxy | _待公布_ |
+| gumroad | [takkoowo.gumroad.com/l/Puruwuff](https://takkoowo.gumroad.com/l/Puruwuff) |
+| jinxxy | [jinxxy.com/Takko/puruwuff](https://jinxxy.com/Takko/puruwuff) |
 | booth.pm | [takkoowo.booth.pm/items/8847318](https://takkoowo.booth.pm/items/8847318) |
 | B站工房 | _待公布_ |
 
-<!-- TODO: gumroad / jinxxy / B站工房 的商品页 URL 尚未公开; 拿到链接后填入上表 -->
+<!-- TODO: B站工房 的商品页 URL 尚未公开; 拿到链接后填入上表 -->
 
 ## 模型功能与机制
 
@@ -58,7 +58,7 @@
 - 可以使用项目中的素体、服装（outfit）、布丁道具的 MA 组件, 组合并上传不同的版本
 - 可以自行添加 GogoLoco、VRCFT 等组件
 - 完整文档: [导入指南](install/install.zh-CN.md)
-- 请使用国际版 Unity 上传：[国际版 Unity 安装注意事项](unity-intl-install/unity-intl-install.zh-CN.md)
+- 请使用国际版上传, 国际版 Unity 安装方法：[国际版 Unity 安装注意事项](unity-intl-install/unity-intl-install.zh-CN.md)
 
 ## 利用规约
 

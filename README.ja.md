@@ -19,12 +19,12 @@
 
 | プラットフォーム | 商品ページ |
 | --- | --- |
-| gumroad | _未定_ |
-| jinxxy | _未定_ |
+| gumroad | [takkoowo.gumroad.com/l/Puruwuff](https://takkoowo.gumroad.com/l/Puruwuff) |
+| jinxxy | [jinxxy.com/Takko/puruwuff](https://jinxxy.com/Takko/puruwuff) |
 | booth.pm | [takkoowo.booth.pm/items/8847318](https://takkoowo.booth.pm/items/8847318) |
 | bilibili工房 | _未定_ |
 
-<!-- TODO: gumroad / jinxxy / bilibili工房 の商品ページ URL は未公開。決まり次第ここに追記 -->
+<!-- TODO: bilibili工房 の商品ページ URL は未公開。決まり次第ここに追記 -->
 
 ## 機能・ギミック
 
