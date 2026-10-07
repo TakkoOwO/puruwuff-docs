@@ -1,6 +1,6 @@
 <div align="center">
 
-# puruwuff
+# Puruwuff - Furry Avatar Project Hub
 
 <img src="images/poster.webp" alt="puruwuff key visual" width="760" height="760">
 
@@ -10,44 +10,41 @@ One bite and you get chubby? A pudding dog-style Kemono avatar with shirttail li
 
 </div>
 
-## Model samples & showcase
+## Sample & Preview
 
-| Sample | Link |
-| --- | --- |
-| VRChat try-on (demo) | [Open in VRChat](https://vrchat.com/home/avatar/avtr_b0d2d0fa-bc3c-4957-bb4e-5a026e4db63a) |
-| VRM model showcase (VRoid Hub) | [Puruwuff Full_Outfit](https://hub.vroid.com/en/characters/1221089435497151749/models/5018229049494589851) · [Puruwuff Chuby](https://hub.vroid.com/en/characters/1221089435497151749/models/5606967958032443628) |
+- View all showcase images: [Showcase (9 images)](gallery/gallery.md)
+- VRChat try-on (demo): [Open in VRChat](https://vrchat.com/home/avatar/avtr_b0d2d0fa-bc3c-4957-bb4e-5a026e4db63a)
+- VRM model showcase (VRoid Hub)
+  - [Puruwuff Full_Outfit — VRoid Hub](https://hub.vroid.com/en/characters/1221089435497151749/models/5018229049494589851)
+  - [Puruwuff Chuby — VRoid Hub](https://hub.vroid.com/en/characters/1221089435497151749/models/5606967958032443628)
 
-**[View the full showcase (9 images)](gallery/gallery.md)**
-
-## Purchase
+## Store Links
 
 | Platform | Product page |
 | --- | --- |
-| Gumroad | _TBA_ |
-| Jinxxy | _TBA_ |
-| booth.pm | _TBA_ |
+| gumroad | _TBA_ |
+| jinxxy | _TBA_ |
+| booth.pm | [takkoowo.booth.pm/items/8847318](https://takkoowo.booth.pm/items/8847318) |
 | bilibili 工房 | _TBA_ |
 
-<!-- TODO: product-page URLs not decided yet; fill them in here once available -->
+<!-- TODO: gumroad / jinxxy / bilibili 工房 product pages are not published yet; fill in the URLs here -->
 
-## VRC avatar features
+## Features & Gimmicks
 
 - 12 gesture-triggered expressions and 6 menu expressions
 - Clothing parts have independent toggle controls; the shirt can be lifted, and the leash can be held
 - Body size is adjustable; toes, tail, and ears are animated
 - You can feed it pudding, and it gradually gets chubby
-- See: [VRC avatar features](vrc-features/vrc-features.md)
+- Full documentation: [VRC avatar features](vrc-features/vrc-features.md)
 
-## Project files usage guide
+## Setup & Requirements
 
-> [!IMPORTANT]
-> The VRChat project depends on Modular Avatar and the lilToon shader. You can add components such as GogoLoco and VRCFT yourself.
+- The VRChat project depends on Modular Avatar and the lilToon shader.
+- You can use the base body, outfit, and pudding prop MA components included in the project to combine and upload different versions.
+- You can add components such as GogoLoco and VRCFT yourself.
+- Full guide: [Installation guide](install/install.md)
 
-- See: [Installation guide](install/install.md)
-
-<!-- TODO: link target for the project files usage guide; install/install.md is linked for now — change it if another guide is intended -->
-
-## Model information
+## Avatar Specifications
 
 | Item | Details |
 | --- | --- |
@@ -56,7 +53,7 @@ One bite and you get chubby? A pudding dog-style Kemono avatar with shirttail li
 | Materials | 3 |
 | Performance rank | Poor |
 
-## Included files
+## Included Files
 
 - VRChat UnityPackage project files
 - VRM UnityPackage project files
@@ -65,19 +62,17 @@ One bite and you get chubby? A pudding dog-style Kemono avatar with shirttail li
 - Substance Painter project files
 - PSD files
 
-## License
+## Terms of Use
 
-- ✅ You may commission others to modify it (outsourcing), livestream for revenue, sell fan-made creations, and sell accessories you develop — no need to ask for permission via DM.
-- ❌ Do not leak or resell the contents of the project files.
-
-See: [full license](license/license.md)
+- In short: as an individual user and creator, you may livestream for revenue, profit from fan creations, and sell accessories you develop — no need to ask for permission via DM. But do not leak or resell the contents of the project files.
+- Full text: [License](license/license.md)
 
 ## Changelog
 
-- Current version: 1.0.0, released 2026-10-06
-- See: [full changelog](changelog/changelog.md)
+- Current version: 1.0.0, updated 2026-10-07
+- Full text: [Changelog](changelog/changelog.md)
 
-## Contact
+## Contact & Support
 
 - If you have any questions after purchase, contact me on X.
   - <https://x.com/Takko_233>

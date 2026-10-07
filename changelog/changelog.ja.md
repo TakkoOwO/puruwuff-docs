@@ -3,7 +3,7 @@
 [English](changelog.md) | **日本語** | [简体中文](changelog.zh-CN.md)
 
 <details open>
-<summary><strong>1.0.0</strong> — 2026-10-06</summary>
+<summary><strong>1.0.0</strong> — 2026-10-07</summary>
 
 - リリース
 
