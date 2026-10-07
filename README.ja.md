@@ -22,9 +22,7 @@
 | gumroad | [takkoowo.gumroad.com/l/Puruwuff](https://takkoowo.gumroad.com/l/Puruwuff) |
 | jinxxy | [jinxxy.com/Takko/puruwuff](https://jinxxy.com/Takko/puruwuff) |
 | booth.pm | [takkoowo.booth.pm/items/8847318](https://takkoowo.booth.pm/items/8847318) |
-| bilibili工房 | _未定_ |
-
-<!-- TODO: bilibili工房 の商品ページ URL は未公開。決まり次第ここに追記 -->
+| bilibili工房 | [gf.bilibili.com/item/detail/1108955046](https://gf.bilibili.com/item/detail/1108955046) |
 
 ## 機能・ギミック
 

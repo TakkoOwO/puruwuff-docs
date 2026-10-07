@@ -22,9 +22,7 @@ One bite and you get chubby? A pudding dog-style Kemono avatar with shirttail li
 | gumroad | [takkoowo.gumroad.com/l/Puruwuff](https://takkoowo.gumroad.com/l/Puruwuff) |
 | jinxxy | [jinxxy.com/Takko/puruwuff](https://jinxxy.com/Takko/puruwuff) |
 | booth.pm | [takkoowo.booth.pm/items/8847318](https://takkoowo.booth.pm/items/8847318) |
-| bilibili 工房 | _TBA_ |
-
-<!-- TODO: bilibili 工房 product page is not published yet; fill in the URL here -->
+| bilibili 工房 | [gf.bilibili.com/item/detail/1108955046](https://gf.bilibili.com/item/detail/1108955046) |
 
 ## Features & Gimmicks
 

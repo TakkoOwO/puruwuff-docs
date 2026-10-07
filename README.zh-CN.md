@@ -22,9 +22,7 @@
 | gumroad | [takkoowo.gumroad.com/l/Puruwuff](https://takkoowo.gumroad.com/l/Puruwuff) |
 | jinxxy | [jinxxy.com/Takko/puruwuff](https://jinxxy.com/Takko/puruwuff) |
 | booth.pm | [takkoowo.booth.pm/items/8847318](https://takkoowo.booth.pm/items/8847318) |
-| B站工房 | _待公布_ |
-
-<!-- TODO: B站工房 的商品页 URL 尚未公开; 拿到链接后填入上表 -->
+| B站工房 | [gf.bilibili.com/item/detail/1108955046](https://gf.bilibili.com/item/detail/1108955046) |
 
 ## 模型功能与机制
 
