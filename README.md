@@ -10,13 +10,10 @@ One bite and you get chubby? A pudding dog-style Kemono avatar with shirttail li
 
 </div>
 
-## Sample & Preview
-
-- View all showcase images: [Showcase (9 images)](gallery/gallery.md)
-- VRChat try-on (demo): [Open in VRChat](https://vrchat.com/home/avatar/avtr_b0d2d0fa-bc3c-4957-bb4e-5a026e4db63a)
-- VRM model showcase (VRoid Hub)
-  - [Puruwuff Full_Outfit — VRoid Hub](https://hub.vroid.com/en/characters/1221089435497151749/models/5018229049494589851)
-  - [Puruwuff Chuby — VRoid Hub](https://hub.vroid.com/en/characters/1221089435497151749/models/5606967958032443628)
+- All showcase images: [Showcase (9 images)](gallery/gallery.md)
+- VRChat try-on: [Open in VRChat](https://vrchat.com/home/avatar/avtr_b0d2d0fa-bc3c-4957-bb4e-5a026e4db63a)
+- VRM model showcase (full_outfit): [Puruwuff Full_Outfit — VRoid Hub](https://hub.vroid.com/en/characters/1221089435497151749/models/5018229049494589851)
+- VRM model showcase (chubby): [Puruwuff Chuby — VRoid Hub](https://hub.vroid.com/en/characters/1221089435497151749/models/5606967958032443628)
 
 ## Store Links
 
@@ -37,13 +34,6 @@ One bite and you get chubby? A pudding dog-style Kemono avatar with shirttail li
 - You can feed it pudding, and it gradually gets chubby
 - Full documentation: [VRC avatar features](vrc-features/vrc-features.md)
 
-## Setup & Requirements
-
-- The VRChat project depends on Modular Avatar and the lilToon shader.
-- You can use the base body, outfit, and pudding prop MA components included in the project to combine and upload different versions.
-- You can add components such as GogoLoco and VRCFT yourself.
-- Full guide: [Installation guide](install/install.md)
-
 ## Avatar Specifications
 
 | Item | Details |
@@ -62,15 +52,23 @@ One bite and you get chubby? A pudding dog-style Kemono avatar with shirttail li
 - Substance Painter project files
 - PSD files
 
+## Setup & Requirements
+
+- The VRChat project depends on Modular Avatar and the lilToon shader.
+- You can use the base body, outfit, and pudding prop MA components included in the project to combine and upload different versions.
+- You can add components such as GogoLoco and VRCFT yourself.
+- Full documentation: [Installation guide](install/install.md)
+
 ## Terms of Use
 
-- In short: as an individual user and creator, you may livestream for revenue, profit from fan creations, and sell accessories you develop — no need to ask for permission via DM. But do not leak or resell the contents of the project files.
-- Full text: [License](license/license.md)
+- ✅ In short: as an individual user and creator, you may livestream for revenue, profit from fan creations, and sell accessories you develop — no need to ask for permission.
+- ❌ Please do not leak or resell the contents of the project files.
+- Full documentation: [License](license/license.md)
 
 ## Changelog
 
 - Current version: 1.0.0, updated 2026-10-07
-- Full text: [Changelog](changelog/changelog.md)
+- Full documentation: [Changelog](changelog/changelog.md)
 
 ## Contact & Support
 

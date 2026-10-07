@@ -10,13 +10,10 @@
 
 </div>
 
-## 试穿与展示
-
-- 查看全部展示图：[展示（9 张）](gallery/gallery.md)
-- VRC 模型试穿：[在 VRChat 中打开](https://vrchat.com/home/avatar/avtr_b0d2d0fa-bc3c-4957-bb4e-5a026e4db63a)
-- VRM 模型展示（VRoid Hub）
-  - [Puruwuff Full_Outfit — VRoid Hub](https://hub.vroid.com/en/characters/1221089435497151749/models/5018229049494589851)
-  - [Puruwuff Chuby — VRoid Hub](https://hub.vroid.com/en/characters/1221089435497151749/models/5606967958032443628)
+- 全部展示图链接：[展示（9 张）](gallery/gallery.md)
+- VRChat 试穿：[在 VRChat 中打开](https://vrchat.com/home/avatar/avtr_b0d2d0fa-bc3c-4957-bb4e-5a026e4db63a)
+- VRM 模型展示 (full_outfit)：[Puruwuff Full_Outfit — VRoid Hub](https://hub.vroid.com/en/characters/1221089435497151749/models/5018229049494589851)
+- VRM 模型展示 (chubby)：[Puruwuff Chuby — VRoid Hub](https://hub.vroid.com/en/characters/1221089435497151749/models/5606967958032443628)
 
 ## 购买渠道
 
@@ -37,14 +34,6 @@
 - 可以投喂布丁, 会逐渐吃胖
 - 完整文档: [VRC 模型玩法](vrc-features/vrc-features.zh-CN.md)
 
-## 导入与依赖说明
-
-- VRChat 工程依赖 Modular Avatar 和 lilToon shader
-- 可以使用项目中的素体、服装（outfit）、布丁道具的 MA 组件, 组合并上传不同的版本
-- 可以自行添加 GogoLoco、VRCFT 等组件
-- 查看完整版: [导入指南](install/install.zh-CN.md)
-- 国内环境请使用国际版 Unity 上传: 详见 [国际版 Unity 安装注意事项](unity-intl-install/unity-intl-install.zh-CN.md)
-
 ## 模型规格与数据
 
 | 项目 | 内容 |
@@ -63,15 +52,24 @@
 - Substance Painter 工程文件
 - PSD 文件
 
+## 导入与依赖说明
+
+- VRChat 工程依赖 Modular Avatar 和 lilToon shader
+- 可以使用项目中的素体、服装（outfit）、布丁道具的 MA 组件, 组合并上传不同的版本
+- 可以自行添加 GogoLoco、VRCFT 等组件
+- 完整文档: [导入指南](install/install.zh-CN.md)
+- 请使用国际版 Unity 上传：[国际版 Unity 安装注意事项](unity-intl-install/unity-intl-install.zh-CN.md)
+
 ## 利用规约
 
-- 简单来说: 作为个人用户和创作者, 您可以直播获取收益, 同人创作盈利, 开发配件贩售, 无需私信授权. 但是请勿外泄和倒卖工程文件中的内容.
-- 查看完整版: [使用许可](license/license.zh-CN.md)
+- ✅（简单概括）作为个人用户和创作者, 您可以直播获取收益, 同人创作盈利, 开发配件贩售, 无需询问授权.
+- ❌ 请勿外泄和倒卖工程文件中的内容.
+- 完整文档: [使用许可](license/license.zh-CN.md)
 
 ## 更新日志
 
 - 当前版本: 1.0.0 更新于 2026-10-07
-- 查看完整版: [完整更新历史](changelog/changelog.zh-CN.md)
+- 完整文档: [完整更新历史](changelog/changelog.zh-CN.md)
 
 ## 联系与支持
 

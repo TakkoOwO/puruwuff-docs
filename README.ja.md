@@ -10,13 +10,10 @@
 
 </div>
 
-## サンプル・試着
-
 - 展示画像をすべて見る：[展示（9 枚）](gallery/gallery.md)
-- VRChat 試着（デモ）：[VRChat で開く](https://vrchat.com/home/avatar/avtr_b0d2d0fa-bc3c-4957-bb4e-5a026e4db63a)
-- VRM モデル展示（VRoid Hub）
-  - [Puruwuff Full_Outfit — VRoid Hub](https://hub.vroid.com/en/characters/1221089435497151749/models/5018229049494589851)
-  - [Puruwuff Chuby — VRoid Hub](https://hub.vroid.com/en/characters/1221089435497151749/models/5606967958032443628)
+- VRChat 試着：[VRChat で開く](https://vrchat.com/home/avatar/avtr_b0d2d0fa-bc3c-4957-bb4e-5a026e4db63a)
+- VRM モデル展示（full_outfit）：[Puruwuff Full_Outfit — VRoid Hub](https://hub.vroid.com/en/characters/1221089435497151749/models/5018229049494589851)
+- VRM モデル展示（chubby）：[Puruwuff Chuby — VRoid Hub](https://hub.vroid.com/en/characters/1221089435497151749/models/5606967958032443628)
 
 ## 販売ショップ
 
@@ -37,13 +34,6 @@
 - プリンを食べさせることができ、少しずつ太っていきます
 - 詳細：[VRCモデルの遊び方](vrc-features/vrc-features.ja.md)
 
-## 導入方法・必要アセット
-
-- VRChat プロジェクトは Modular Avatar と lilToon shader に依存しています。
-- プロジェクトに含まれる素体・衣装（outfit）・プリン小道具の MA コンポーネントを使い、組み合わせて別バージョンとしてアップロードできます。
-- GogoLoco や VRCFT などのコンポーネントはご自身で追加できます。
-- 詳細：[インポートガイド](install/install.ja.md)
-
 ## モデル仕様
 
 | 項目 | 内容 |
@@ -62,9 +52,17 @@
 - Substance Painter プロジェクトファイル
 - PSD ファイル
 
+## 導入方法・必要アセット
+
+- VRChat プロジェクトは Modular Avatar と lilToon shader に依存しています。
+- プロジェクトに含まれる素体・衣装（outfit）・プリン小道具の MA コンポーネントを使い、組み合わせて別バージョンとしてアップロードできます。
+- GogoLoco や VRCFT などのコンポーネントはご自身で追加できます。
+- 詳細：[インポートガイド](install/install.ja.md)
+
 ## 利用規約
 
-- 簡単に言うと：個人ユーザー・クリエイターとして、収益化を伴う配信、同人創作での収益化、制作したアクセサリの販売が可能で、DM での許諾申請は不要です。ただし、プロジェクトファイルの内容を外部へ漏らしたり転売したりしないでください。
+- ✅ 簡単に言うと：個人ユーザー・クリエイターとして、収益化を伴う配信、同人創作での収益化、制作したアクセサリの販売が可能で、許諾の問い合わせは不要です。
+- ❌ プロジェクトファイルの内容を外部へ漏らしたり転売したりしないでください。
 - 詳細：[ライセンス全文](license/license.ja.md)
 
 ## 更新履歴

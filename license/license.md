@@ -19,8 +19,7 @@
 > [!WARNING]
 > The permissions above are limited to individuals and small doujin teams. If you are a commercial company or a corporate entity, please contact me via DM in advance to arrange a commercial license.
 
-<details>
-<summary>Worry-free guide for accessory / extension developers</summary>
+## Worry-free guide for accessory / extension developers
 
 If you plan to make accessories / skins / body-size extensions and sell them for profit on platforms such as Booth, Gumroad, or Jinxxy:
 
@@ -29,8 +28,6 @@ If you plan to make accessories / skins / body-size extensions and sell them for
   - **Standard clothing / accessories / skins**: package only the parts you made yourself, avoid including the model's original objects, and using tools such as Modular Avatar to attach them automatically is recommended.
   - Body mesh modifications (such as adding or removing blendshapes, or changing the body size): if your product genuinely needs to include the modified base mesh, make sure that users who have not bought the original model cannot assemble the complete original model from your extension pack alone.
 - Please state on your product page: "This product is an add-on pack; please buy the original base model before use."
-
-</details>
 
 ## Disclaimer
 
