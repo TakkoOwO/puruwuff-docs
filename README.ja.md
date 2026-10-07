@@ -74,3 +74,7 @@
 
 - ご購入後にご不明な点があれば、X にてご連絡ください。
   - <https://x.com/Takko_233>
+
+## Credits
+
+SFX: @OpenNSFWSP

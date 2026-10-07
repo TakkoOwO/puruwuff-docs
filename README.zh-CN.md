@@ -77,3 +77,7 @@
   - <https://x.com/Takko_233>
 - 国内用户请通过 bilibili 私信联系我
   - <https://space.bilibili.com/11784367>
+
+## Credits
+
+SFX: @OpenNSFWSP

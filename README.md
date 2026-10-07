@@ -74,3 +74,7 @@ One bite and you get chubby? A pudding dog-style Kemono avatar with shirttail li
 
 - If you have any questions after purchase, contact me on X.
   - <https://x.com/Takko_233>
+
+## Credits
+
+SFX: @OpenNSFWSP
