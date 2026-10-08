@@ -1,6 +1,6 @@
 # VRC avatar features
 
-**English** | [日本語](vrc-features.ja.md) | [简体中文](vrc-features.zh-CN.md)
+**English** | [日本語](vrc-features.ja.md) | [한국어](vrc-features.ko.md) | [简体中文](vrc-features.zh-CN.md)
 
 ## Expressions
 

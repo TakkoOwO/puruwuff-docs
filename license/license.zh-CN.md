@@ -1,6 +1,6 @@
 # 使用许可
 
-[English](license.md) | [日本語](license.ja.md) | **简体中文**
+[English](license.md) | [日本語](license.ja.md) | [한국어](license.ko.md) | **简体中文**
 
 ## 许可一览
 

@@ -6,7 +6,7 @@
 
 吃一口就变胖？支持撩衣与吃布丁互动的布丁犬系 Kemono 模型🍮
 
-[English](README.md) | [日本語](README.ja.md) | **简体中文**
+[English](README.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | **简体中文**
 
 </div>
 
@@ -66,7 +66,7 @@
 
 ## 更新日志
 
-- 当前版本: 1.0.0 更新于 2026-10-07
+- 当前版本: 1.0.1 更新于 2026-10-08
 - 完整文档: [完整更新历史](changelog/changelog.zh-CN.md)
 
 ## 联系与支持

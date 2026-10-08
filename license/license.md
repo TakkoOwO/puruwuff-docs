@@ -1,6 +1,6 @@
 # License
 
-**English** | [日本語](license.ja.md) | [简体中文](license.zh-CN.md)
+**English** | [日本語](license.ja.md) | [한국어](license.ko.md) | [简体中文](license.zh-CN.md)
 
 ## License overview
 

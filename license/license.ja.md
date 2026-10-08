@@ -1,6 +1,6 @@
 # ライセンス
 
-[English](license.md) | **日本語** | [简体中文](license.zh-CN.md)
+[English](license.md) | **日本語** | [한국어](license.ko.md) | [简体中文](license.zh-CN.md)
 
 ## ライセンス一覧
 

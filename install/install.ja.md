@@ -1,6 +1,6 @@
 # インポートガイド
 
-[English](install.md) | **日本語** | [简体中文](install.zh-CN.md)
+[English](install.md) | **日本語** | [한국어](install.ko.md) | [简体中文](install.zh-CN.md)
 
 ## VRChat プロジェクト
 

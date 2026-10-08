@@ -2,7 +2,7 @@
 
 # puruwuff
 
-[English](../README.md) · [日本語](../README.ja.md) · [简体中文](../README.zh-CN.md)
+[English](../README.md) · [日本語](../README.ja.md) · [한국어](../README.ko.md) · [简体中文](../README.zh-CN.md)
 
 | <a href="../images/poster.webp"><img src="../images/thumbs/poster.webp" alt="Key visual" width="280" height="280"></a> | <a href="../images/resources.webp"><img src="../images/thumbs/resources.webp" alt="List of included resources" width="280" height="280"></a> | <a href="../images/feature-01.webp"><img src="../images/thumbs/feature-01.webp" alt="Feature showcase 01" width="280" height="280"></a> |
 | :---: | :---: | :---: |

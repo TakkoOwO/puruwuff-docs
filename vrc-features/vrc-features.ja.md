@@ -1,6 +1,6 @@
 # VRCモデルの遊び方
 
-[English](vrc-features.md) | **日本語** | [简体中文](vrc-features.zh-CN.md)
+[English](vrc-features.md) | **日本語** | [한국어](vrc-features.ko.md) | [简体中文](vrc-features.zh-CN.md)
 
 ## 表情
 

@@ -1,6 +1,6 @@
 # 导入指南
 
-[English](install.md) | [日本語](install.ja.md) | **简体中文**
+[English](install.md) | [日本語](install.ja.md) | [한국어](install.ko.md) | **简体中文**
 
 ## VRChat 项目
 

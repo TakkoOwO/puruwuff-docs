@@ -1,6 +1,6 @@
 # VRC 模型玩法
 
-[English](vrc-features.md) | [日本語](vrc-features.ja.md) | **简体中文**
+[English](vrc-features.md) | [日本語](vrc-features.ja.md) | [한국어](vrc-features.ko.md) | **简体中文**
 
 ## 表情
 

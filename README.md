@@ -6,7 +6,7 @@
 
 One bite and you get chubby? A pudding dog-style Kemono avatar with shirttail lifting and pudding-eating interactions 🍮
 
-**English** | [日本語](README.ja.md) | [简体中文](README.zh-CN.md)
+**English** | [日本語](README.ja.md) | [한국어](README.ko.md) | [简体中文](README.zh-CN.md)
 
 </div>
 
@@ -65,7 +65,7 @@ One bite and you get chubby? A pudding dog-style Kemono avatar with shirttail li
 
 ## Changelog
 
-- Current version: 1.0.0, updated 2026-10-07
+- Current version: 1.0.1, updated 2026-10-08
 - Full documentation: [Changelog](changelog/changelog.md)
 
 ## Contact & Support
